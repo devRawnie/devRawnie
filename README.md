@@ -1,5 +1,5 @@
-### [image](https://user-images.githubusercontent.com/43227329/126765855-62099002-dc92-43d9-bb9f-bb691bc1d07f.png) 
-#### Rohit this side ![image](https://user-images.githubusercontent.com/43227329/126767974-0e4ca373-c25f-484e-80cc-4ff2d2b4e609.png)
+## Hey Folk! Rohit this side 
+
 
 
 
