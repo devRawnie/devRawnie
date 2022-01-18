@@ -1,11 +1,14 @@
 <h2> Hey Folks, I'm Rohit Sharma! <img src="https://media.giphy.com/media/3ohhwExYXg3q8oC26Q/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="230">
-<p><em>MSc CS Student at <a href="http://www.du.ac.in//">University of Delhi</a><img src="https://media.giphy.com/media/d6Je8KexsLbCXLNouj/giphy.gif" width="30"></br>Worked at <a href="https://www.vityasa.com/">Vityasa</a> as a Django Development Intern (May-21 to Oct-21) <img src="https://media.giphy.com/media/IV09naiKhckfXzT8RF/giphy.gif" width="30"></br> Former Open Source Participant at <a href="https://gssoc.girlscript.tech/">GirlScript Summer of Code</a><img src="https://media.giphy.com/media/17b875GGvV9m9sLmNc/giphy.gif" width="30">
+<p><em>MSc Computer Science Student at <a href="http://www.du.ac.in//">University of Delhi</a><img src="https://media.giphy.com/media/d6Je8KexsLbCXLNouj/giphy.gif" width="30">
+</br>Working at <a href="https://www.userfacet.com/">Userfacet</a> as a Backend Development Intern (Started Jan-22) <img src="https://user-images.githubusercontent.com/43227329/149993491-0ea20e44-d24b-4eec-bfa4-c1a4bd461e98.gif" width="30"></br>Worked at <a href="https://www.vityasa.com/">Vityasa</a> as a Django Development Intern (May-21 to Oct-21) <img src="https://media.giphy.com/media/IV09naiKhckfXzT8RF/giphy.gif" width="30"></br> Former Open Source Participant at <a href="https://gssoc.girlscript.tech/">GirlScript Summer of Code</a><img src="https://media.giphy.com/media/17b875GGvV9m9sLmNc/giphy.gif" width="30">
 </em></p>
 
 [![Twitter: RohitSharma](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fwhau_rohit)](https://twitter.com/whau_rohit)
 [![Linkedin: RohitSharma](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/rohit-sharma-mcs/)](https://www.linkedin.com/in/rohit-sharma-mcs/)
 [![GitHub devRawnie](https://img.shields.io/github/followers/devRawnie?style=social)](https://github.com/devRawnie)
+
+
 <!--
 **devRawnie/devRawnie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
